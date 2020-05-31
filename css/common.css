@@ -1,0 +1,98 @@
+.contanier {
+  width: 1140px;
+  margin: auto;
+}
+
+.clear-b {
+  clear: both;
+}
+
+.fl-l {
+  float: left;
+}
+
+.fl-r {
+  float: right;
+}
+
+.menu-list {
+  font-family: 'Heebo', sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.button-type-1 {
+  padding: 16px 50px;
+  text-decoration: none;
+  background-color: #D31F49;
+  color: white;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  -webkit-box-shadow: 0px 3px 0px #A20000;
+          box-shadow: 0px 3px 0px #A20000;
+  display: inline-block;
+  border-radius: 10px;
+  outline: none;
+}
+
+.button-type-2 {
+  padding: 18px 54px;
+  text-decoration: none;
+  color: #D31F49;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  display: inline-block;
+  border-radius: 10px;
+  border: solid #D31F49 2px;
+}
+
+.text-title1 {
+  font-family: 'Heebo', sans-serif;
+  font-size: 70px;
+  line-height: 76px;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+.text-title2 {
+  font-family: 'PT Serif', serif;
+  font-size: 22px;
+  line-height: 28px;
+  font-style: italic;
+  color: white;
+}
+
+.text-title3 {
+  font-family: 'Heebo', sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+}
+
+.text-desc1 {
+  font-family: 'PT Serif', serif;
+  font-size: 22px;
+  line-height: 24px;
+  font-style: italic;
+  color: #727272;
+}
+
+.text-desc2 {
+  font-family: 'Heebo', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+
+.border-stick {
+  height: 5px;
+  background-color: #ED093E;
+}
+/*# sourceMappingURL=common.css.map */
